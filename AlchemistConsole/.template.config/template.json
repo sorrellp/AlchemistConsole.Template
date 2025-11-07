@@ -2,8 +2,8 @@
     "$schema": "http://json.schemastore.org/template",
     "author": "sorrellp",
     "classifications": [ "Common", "Console" ],
-    "identity": "Alchemist.Console.8.0.0",
-    "name": "Alchemist Console App for .NET 8.0",
+    "identity": "Alchemist.Console.9.0.0",
+    "name": "Alchemist Console App for .NET 9.0",
     "shortName": "alchemistconsole",
     "sourceName":"Alchemist.Console",
     "tags": {
